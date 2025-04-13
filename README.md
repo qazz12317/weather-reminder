@@ -9,4 +9,4 @@
 
 ## What I learned
 - Use requests to get API
-- JSON 
+- JSON first try
