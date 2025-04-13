@@ -7,7 +7,7 @@ script_dir = Path (__file__).resolve().parent
 os.chdir(script_dir)
 weather_file = script_dir / "weather.txt"
 
-API_KEY = "API_KEY" # Get from website
+API_KEY = "4e3d69357fc67c4ab847f4a1937b100c"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 def get_weather(city):
